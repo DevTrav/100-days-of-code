@@ -17,3 +17,12 @@
 **Thoughts:** I am really proud that I pushed through the discomfort of struggling with debugging the API. Pushing through the challenge led me to a deeper understanding of Django RESt Framework and gave me cofidence boost in my developer troubleshooting skills. 
 
 **Link to work:** [To-do List](https://github.com/DevTrav/to-do-list/tree/main), [Exercism](https://github.com/DevTrav/exercism)
+
+### Day 2: August 8, 2023 
+
+
+**Today's Progress**: Today I earned my SQL Gold badge on HAckerRAnk! I took some time to focus on fundamentals of algorithms and SQL. 
+
+**Thoughts:** I love how algo problems really make you drill down into logic. Regardless of chosen programming language - Euclidean Distance is calculated same the same way. I remember when solving multiple "easy" HackerRank problems in a single session was challenging. Felt good to earn the gold badge with 4 "medium" problems and take the time to really sit with the solutions.
+
+**Link to work:** [HackerRack Gold Badge Post](https://www.linkedin.com/feed/update/urn:li:activity:7095272166350340098/)
