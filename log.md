@@ -18,7 +18,7 @@
 
 **Link to work:** [To-do List](https://github.com/DevTrav/to-do-list/tree/main), [Exercism](https://github.com/DevTrav/exercism)
 
-### Day 2: August 8, 2023 
+### Day 2: August 9, 2023 
 
 
 **Today's Progress**: Today I earned my SQL Gold badge on HAckerRAnk! I took some time to focus on fundamentals of algorithms and SQL. 
@@ -26,3 +26,12 @@
 **Thoughts:** I love how algo problems really make you drill down into logic. Regardless of chosen programming language - Euclidean Distance is calculated same the same way. I remember when solving multiple "easy" HackerRank problems in a single session was challenging. Felt good to earn the gold badge with 4 "medium" problems and take the time to really sit with the solutions.
 
 **Link to work:** [HackerRack Gold Badge Post](https://www.linkedin.com/feed/update/urn:li:activity:7095272166350340098/)
+
+### Day 3: August 10, 2023 
+
+
+**Today's Progress**: I was contacted about a frontend job using Mapbox and Leaflet. So, I began development on a "Zillow" clone with React frontend, django backend, mapbox and leaflet for listing maps. The app will also connect to a postgres db. The django backend will assigned role-based access for realtors, Admins and users.
+
+**Thoughts:** I am stoked about architecting something that could have a realworld use case and fun to tinker with! The db is not playing nice after install. I will need to reinstall tomorrow and find the source issue. All in all, I am reenergized and having fun coding again.
+
+**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
