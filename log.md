@@ -39,7 +39,15 @@
 ### Day 4: August 10, 2023 
 
 
-**Today's Progress**: I got hungup on installing and configuring PostgreSQL. Managed to get unstuck and push through.
+**Today's Progress**: I got hungup on installing and configuring PostgreSQL. Managed to get unstuck and push through. 
 **Thoughts:** I am glad I pushed through to a solution. The bump in the road led me to an even faster work flow via running my Terminal.app command via Alfred, instead of opening the application. However, the solution took longer than planned to find. on a positive note, I am really proud of the architecture considerations of my realtor app and i am happy it is fullstack and allows me to practice all of my developer and DevOps skills. 
+
+**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
+
+### Day 5: August 10, 2023 
+
+
+**Today's Progress**: I got inspired by my Day 4 hangup and stayed up (or got up early) and pressed on the get a couple of meaningful backend changes through. I added the django framework and the accounts app for role-based access. 
+**Thoughts:** More updates after a few hours sleep. lol...feeling excited to be inspired enough to stay up late and get up early! (After some much needed sleep...)
 
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
