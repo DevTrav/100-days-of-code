@@ -35,3 +35,11 @@
 **Thoughts:** I am stoked about architecting something that could have a realworld use case and fun to tinker with! The db is not playing nice after install. I will need to reinstall tomorrow and find the source issue. All in all, I am reenergized and having fun coding again.
 
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
+
+### Day 4: August 10, 2023 
+
+
+**Today's Progress**: I got hungup on installing and configuring PostgreSQL. Managed to get unstuck and push through.
+**Thoughts:** I am glad I pushed through to a solution. The bump in the road led me to an even faster work flow via running my Terminal.app command via Alfred, instead of opening the application. However, the solution took longer than planned to find. on a positive note, I am really proud of the architecture considerations of my realtor app and i am happy it is fullstack and allows me to practice all of my developer and DevOps skills. 
+
+**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
