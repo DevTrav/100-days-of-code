@@ -36,7 +36,7 @@
 
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
 
-### Day 4: August 10, 2023 
+### Day 4: August 11, 2023 
 
 
 **Today's Progress**: I got hungup on installing and configuring PostgreSQL. Managed to get unstuck and push through. 
@@ -44,10 +44,11 @@
 
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
 
-### Day 5: August 10, 2023 
+### Day 5: August 12, 2023 
 
 
-**Today's Progress**: I got inspired by my Day 4 hangup and stayed up (or got up early) and pressed on the get a couple of meaningful backend changes through. I added the django framework and the accounts app for role-based access. 
-**Thoughts:** More updates after a few hours sleep. lol...feeling excited to be inspired enough to stay up late and get up early! (After some much needed sleep...)
+**Today's Progress**: I got inspired by my Day 4 hangup and stayed up (or got up early) and pressed on the get a couple of meaningful backend changes through. I added the django framework and the accounts app for role-based access. After somee sleep, I added the CORSHEADERS to the realtor app (Zillownaire) necessary for user level access to the database. I also did some algo work in Python on HackerRank.
+**Thoughts:** Feeling excited to be inspired enough to stay up late and get up early! 
+ I realized I have to be much more aggressive in order to see as many solutions as possible. I have to get over 200 problems to remain competative in the interview process. I also realize I need decent sleep and exercise in order to keep up the ferocity. Learning a lot about CORS safety in Django. really enjoying the framework.  
 
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
