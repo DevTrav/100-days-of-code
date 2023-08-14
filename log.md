@@ -52,3 +52,10 @@
  I realized I have to be much more aggressive in order to see as many solutions as possible. I have to get over 200 problems to remain competative in the interview process. I also realize I need decent sleep and exercise in order to keep up the ferocity. Learning a lot about CORS safety in Django. really enjoying the framework.  
 
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
+### Day 6: August 13, 2023 
+
+
+**Today's Progress**: I added Simple JWT to the realtor app for API authentication and url paths to use the react build as a view for the frontend UI.
+ **Thoughts:**I realized somtimes to go further means going slower. I had to slow down and understand "What" I was building and not just the "How". Instead of just copy/pasting someone else's understanding of Django authentication best praactices, I needed to take a step back and sit with how/why Simple JWT works best when building a backend using Django.  Learning a lot about JWT and authentication safety in Django. Still enjoying the Django dive!
+
+**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
