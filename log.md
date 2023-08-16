@@ -59,3 +59,25 @@
  **Thoughts:**I realized somtimes to go further means going slower. I had to slow down and understand "What" I was building and not just the "How". Instead of just copy/pasting someone else's understanding of Django authentication best praactices, I needed to take a step back and sit with how/why Simple JWT works best when building a backend using Django.  Learning a lot about JWT and authentication safety in Django. Still enjoying the Django dive!
 
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
+
+### Day 7: August 14, 2023 
+
+
+**Today's Progress**: Added regex for react routes and url paths to use the react build as a view for the frontend UI.
+ **Thoughts:**I got a job today! Coding adjacent but a step in the right direction. Very excited.
+
+**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
+
+### Day 8: August 14, 2023 
+
+
+**Today's Progress**: Lots of local environment debuggging to find the root cause of rest_framework_simplejwt not being imported. Found a [great article](https://python.plainenglish.io/debugging-django-with-vs-code-and-poetry-c41a7c517df0) on debugging `poetry/vs code envirnment issues. Tl;dr poetry virtual enviroments are often not automatically found(or recommended)in the IDE `Select interpreter` options for your python project. When this happens, you can run `poetry info` from the terminal to find and copy the executable path. Then, c the `Select Interpreter` search bar Added regex for react routes and url paths to use the react build as a view for the frontend UI.
+
+App updates:
+- Created UserAccountsManager class for user creation
+- Created SignUpView class to use UserAccountsManager data on the login page
+- Updated url paths
+- Updated settings.py to use models
+ **Thoughts:** I am making myself stay accountable and making sure I push code everyday. Everyday a meaningful change to the application. I am very proud that I am pushing through the discomfort. I am hoping the grind is a habbit in two more weeks of the challenge. Very excited for the me at day 100.
+
+**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
