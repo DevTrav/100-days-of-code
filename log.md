@@ -68,7 +68,7 @@
 
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
 
-### Day 8: August 14, 2023 
+### Day 8: August 15, 2023 
 
 
 **Today's Progress**: Lots of local environment debuggging to find the root cause of rest_framework_simplejwt not being imported. Found a [great article](https://python.plainenglish.io/debugging-django-with-vs-code-and-poetry-c41a7c517df0) on debugging `poetry/vs code envirnment issues. Tl;dr poetry virtual enviroments are often not automatically found(or recommended)in the IDE `Select interpreter` options for your python project. When this happens, you can run `poetry info` from the terminal to find and copy the executable path. Then, c the `Select Interpreter` search bar Added regex for react routes and url paths to use the react build as a view for the frontend UI.
@@ -80,4 +80,16 @@ App updates:
 - Updated settings.py to use models
  **Thoughts:** I am making myself stay accountable and making sure I push code everyday. Everyday a meaningful change to the application. I am very proud that I am pushing through the discomfort. I am hoping the grind is a habbit in two more weeks of the challenge. Very excited for the me at day 100.
 
+**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
+
+### Day 9: August 16, 2023 
+
+
+**Today's Progress**: pushed UserAccountManager API changes and performed error tests. 
+
+App updates:
+- Tested UserAccountsManager user creation via API
+- Updated UserAccounts model
+- Updated settings.py to use models
+ **Thoughts:** I am feeling resilient. I feel like I am definitely making headway on the first app of the challenge and staying accountable - making sure I push code everyday. The Django Attribute error debug was not straight forward when checking the docs and tutorials. But through resilience, patience and  logical testing I made it through. It was very gratifying to be able to test the API and push changes today.
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
