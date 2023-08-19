@@ -93,3 +93,27 @@ App updates:
 - Updated settings.py to use models
  **Thoughts:** I am feeling resilient. I feel like I am definitely making headway on the first app of the challenge and staying accountable - making sure I push code everyday. The Django Attribute error debug was not straight forward when checking the docs and tutorials. But through resilience, patience and  logical testing I made it through. It was very gratifying to be able to test the API and push changes today.
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
+
+### Day 10-11: August 17-18, 2023 
+
+
+**Today's Progress**: (postmortem log for 8.17 and 8.17) pushed Realtor user model and view changes for realtor login. Made demo vid of url path and login working for Linkedin and X.
+
+App updates:
+- Tested UserAccountsManager user creation via API
+- Updated UserAccounts model
+- Updated settings.py to use models
+ **Thoughts:** My progress and leaning by day 12 (like an aaray, day 1 begins index 0. lolz) has been tremendous. There is a lot to learn when securing a Django API but I am enjoying the ride! The community support is also very encouraging from  X and my network LinkedIn. Feeling less tired. I am hoping that is a sign that I can push through to day 100. For now, I am jsut tryting to pick interesting projects to be excited about.
+**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
+
+## Day 12: August 19, 2023 
+
+
+**Today's Progress**: TBD
+
+Objectives:
+- Push two Exercism algo solutions to remote 
+- Finalize Django backen and add React frontend
+- Post updates on X and Linked in(demo vid or pic or gif if possible)
+ **Thoughts:** TBD
+**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
