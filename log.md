@@ -109,11 +109,20 @@ App updates:
 ## Day 12: August 19, 2023 
 
 
-**Today's Progress**: TBD
+**Today's Progress**: Pushed two Exercism algo solutions to remote. 
 
 Objectives:
 - Push two Exercism algo solutions to remote 
 - Finalize Django backen and add React frontend
 - Post updates on X and Linked in(demo vid or pic or gif if possible)
- **Thoughts:** TBD
-**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
+ **Thoughts:** Did not have as much time for algo as planned. Moving Saturday's objectives to Sunday. 
+**Link to work:** [Realtor App](https://github.com/DevTrav/exercism.git)
+
+## Day 13: August 20, 2023 
+
+
+**Today's Progress**: Pushed two python  Exercism algo solutions to remote. 
+
+
+ **Thoughts:** Today was difficult. A close freind lost a family member. It was hard to move through coding objectives after the service. Going to allow myself to feel this moment and do what I can.  
+**Link to work:** [Realtor App](https://github.com/DevTrav/exercism.git)
