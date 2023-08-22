@@ -116,7 +116,7 @@ Objectives:
 - Finalize Django backen and add React frontend
 - Post updates on X and Linked in(demo vid or pic or gif if possible)
  **Thoughts:** Did not have as much time for algo as planned. Moving Saturday's objectives to Sunday. 
-**Link to work:** [Realtor App](https://github.com/DevTrav/exercism.git)
+**Link to work:** [Exercism](https://github.com/DevTrav/exercism.git)
 
 ## Day 13: August 20, 2023 
 
@@ -125,4 +125,16 @@ Objectives:
 
 
  **Thoughts:** Today was difficult. A close freind lost a family member. It was hard to move through coding objectives after the service. Going to allow myself to feel this moment and do what I can.  
-**Link to work:** [Realtor App](https://github.com/DevTrav/exercism.git)
+**Link to work:** [Exercism](https://github.com/DevTrav/exercism.git)
+
+## Day 14: August 21, 2023 
+
+
+**Today's Progress**: 
+- Had a classical programming tutorialwith a good friend and senior dev featuring: python classes, classmethod and staticmethod.  
+- Added superuser to Django realtor app
+- Set objectives for the remainder of 100DaysOfCode 
+
+
+ **Thoughts:** Today was long but I'm into it! The fire is there. The skills are coming along with each day. And, my family and new coworkers are behind me. I am commited to consistency. It feels really good!
+**Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
