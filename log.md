@@ -145,5 +145,5 @@ Objectives:
 **Today's Progress**: Pushed two python  Exercism algo solutions to remote. 
 
 
- **Thoughts:** Today was difficult. A close freind lost a family member. It was hard to move through coding objectives after the service. Going to allow myself to feel this moment and do what I can.  
+ **Thoughts:** Today was difficult. Longer day since commuting into the office. It was hard to move through coding objectives. Going to get more sleep and hope this helps to refocus my efforts on larger projects during this time.  
 **Link to work:** [Exercism](https://github.com/DevTrav/exercism.git)
