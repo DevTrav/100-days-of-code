@@ -138,3 +138,12 @@ Objectives:
 
  **Thoughts:** Today was long but I'm into it! The fire is there. The skills are coming along with each day. And, my family and new coworkers are behind me. I am commited to consistency. It feels really good!
 **Link to work:** [Realtor App](https://github.com/DevTrav/realtor_app.git)
+
+## Day 15: August 22, 2023 
+
+
+**Today's Progress**: Pushed two python  Exercism algo solutions to remote. 
+
+
+ **Thoughts:** Today was difficult. A close freind lost a family member. It was hard to move through coding objectives after the service. Going to allow myself to feel this moment and do what I can.  
+**Link to work:** [Exercism](https://github.com/DevTrav/exercism.git)
